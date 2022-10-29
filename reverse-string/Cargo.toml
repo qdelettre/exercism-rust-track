@@ -1,5 +1,5 @@
 [dependencies]
-unicode-segmentation = "1.7.1"
+unicode-segmentation = "1.10.0"
 
 [features]
 grapheme = []
