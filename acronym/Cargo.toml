@@ -4,4 +4,4 @@ name = "acronym"
 version = "1.7.0"
 
 [dependencies]
-regex = "1.10.2"
+regex = "1.10.3"
