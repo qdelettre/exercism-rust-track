@@ -5,4 +5,4 @@ version = "0.0.0"
 
 [dependencies]
 fluent = "0.14.1"
-unic-langid = { version = "0.9", features = ["macros"] }
+unic-langid = { version = "0.9.4", features = ["macros"] }
