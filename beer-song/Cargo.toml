@@ -4,5 +4,5 @@ name = "beer-song"
 version = "0.0.0"
 
 [dependencies]
-fluent = "0.14.1"
+fluent = "0.17.0"
 unic-langid = { version = "0.9.4", features = ["macros"] }
